@@ -22,13 +22,15 @@ O projeto será desenvolvido progressivamente, acompanhando os conteúdos estuda
 
 ## Missão 1 — Calculadora Básica
 
-- [ ] Criar o menu principal
-- [ ] Implementar adição
-- [ ] Implementar subtração
-- [ ] Implementar multiplicação
-- [ ] Implementar divisão
-- [ ] Tratar entradas inválidas
-- [ ] Tratar divisão por zero
+- [x] Criar o menu principal
+- [x] Implementar adição
+- [x] Implementar subtração
+- [x] Implementar multiplicação
+- [x] Implementar divisão
+- [x] Tratar entradas inválidas
+- [x] Tratar divisão por zero
+- [ ] A calculadora continuar sendo executada até receber o comando de encerramento.
+- [ ] A calculadora ter a opção de voltar para a etapa anterior.
 
 ---
 
